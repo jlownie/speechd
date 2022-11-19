@@ -736,7 +736,7 @@ but no sound is produced.
 
 Each output module has an
 ``AddModule'' line in
-@file{speech-dispatcher/speechd.conf}. Additionally, each output
+@file{etc/speech-dispatcher/speechd.conf}. Additionally, each output
 module can have its own configuration file.
 
 The audio output is handled by the output modules themselves, so this
